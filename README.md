@@ -6,6 +6,8 @@ A project analyzing movie ratings and votes using R.
 
 This project analyzes the relationship between user ratings and the number of votes received by movies. It includes data cleaning, visualization, and exploratory data analysis using R.
 
+![Rplot__](https://github.com/user-attachments/assets/a860cc10-a3bd-4e52-a681-09508dd84c62)
+
 ## Features
 
 - Data scraping from a movie rating website
